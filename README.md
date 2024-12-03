@@ -18,7 +18,7 @@ This repository contains the mechanical files of the FastIC+ readout enclosure. 
 </div>
 
 ## 3D printing recomendation
-The two components of the top part of the case are exported as one 3MF file but can be printed either separately (if only a single material 3D printer is available) or combined, on a multi material printer. To print the parts joined in Cura, one needs to select both of them after importing the 3MF, right click and select "Merge". If printed separately, the two top components are to be glued together.
+The two components of the top part of the case are exported as one 3MF file but can be printed either separately (if only a single material 3D printer is available) or combined, on a multi material printer. To print the parts joined in Cura, one needs to select both of them after importing the 3MF, right click and select "Merge". Than, if "Ungroup" is selected, the material for each part of the print can be chosen. If printed separately, the two top components are to be glued together.
 
 ## Metal inserts and screws
 M2 metal inserts with the length of 3.5 mm and output diameter of 3.5 mm were used in the design. These need to be fitted into the top part as seen on the cross section image bellow. For all the screws, an M2 hex head with the length of 20mm is considered.
