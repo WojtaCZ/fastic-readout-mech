@@ -1,5 +1,5 @@
 # FastIC+ readout mechanical
-This repository contains the mechanical files of the FastIC+ readout enclosure. The source files from Fusion 360 are provided aswell as 3D printable exported meshes for the [top](top.3mf) and [bottom](bottom.3mf) parts. The PCB design files for the [readout board](https://github.com/WojtaCZ/fastic-readout-hw) aswell as the (user board)[https://github.com/WojtaCZ/fastic-userboard-hw] are available in separate repositories.
+This repository contains the mechanical files of the FastIC+ readout enclosure. The source files from Fusion 360 are provided aswell as 3D printable exported meshes for the [top](top.3mf) and [bottom](bottom.3mf) parts. The PCB design files for the [readout board](https://github.com/WojtaCZ/fastic-readout-hw) aswell as the [user board](https://github.com/WojtaCZ/fastic-userboard-hw) are available in separate repositories.
 
 <div align="center">
   <img src="images/preview.png" width="100%" />
