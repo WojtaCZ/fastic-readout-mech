@@ -24,7 +24,7 @@ The two components of the top part of the case are exported as one 3MF file but 
 M2 metal inserts with the length of 3.5 mm and output diameter of 3.5 mm were used in the design. These need to be fitted into the top part as seen on the cross section image bellow. For all the screws, an M2 hex head with the length of 20mm is considered.
 
 <div align="center">
-  <img src="images/inserts.png" width="100%" />
+  <img src="images/insert.png" width="100%" />
 </div>
 
 
